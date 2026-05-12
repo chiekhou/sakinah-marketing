@@ -1,4 +1,4 @@
-const SITE_URL = 'https://sakinah.app' // à remplacer par ton domaine de production
+const SITE_URL = 'https://sakinah.pro'
 
 export default function sitemap() {
   return [

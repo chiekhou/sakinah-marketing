@@ -10,7 +10,7 @@ const poppins = Poppins({
   variable: '--font-poppins',
 })
 
-const SITE_URL = 'https://sakinah.app' // à remplacer par ton domaine de production
+const SITE_URL = 'https://sakinah.pro'
 const DESCRIPTION =
   "Sakinah t'accompagne face au stress, au harcèlement et aux émotions difficiles. Un assistant IA bienveillant, disponible 24h/24, conçu pour les jeunes."
 
