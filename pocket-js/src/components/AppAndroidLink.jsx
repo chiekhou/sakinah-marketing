@@ -7,7 +7,7 @@ export function AppAndroidLink({ color = 'black' }) {
 
   return (
     <Link
-      href="#"
+      href="https://play.google.com/store/apps/details?id=com.sakinahapp.fr"
       aria-label="Télécharger à venir sur Google Play."
       target="_blank"
       rel="noopener noreferrer"
